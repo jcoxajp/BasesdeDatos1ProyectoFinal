@@ -1,3 +1,10 @@
+//NOMBRES                                    CARNET
+//Alfredo Joselito Vicente Garcia          1490-22-13637
+//Kevin Fernando Ambrocio Alvarez          1490-22-11527
+//Kevin Eduardo Coxaj Ixcayau              1490-22-18758
+//Beatriz Vicente Jiménez                  1490-16-2739
+//José Manuel Coxaj Pelicó                 1490-22-11545
+
 //Función para obtener de la pantalla los valores de factura_id y cliente_id que se seleccionen
 const editSale = (factura_id, cliente_id) => {
     let btneditsale = document.getElementById('btn-selectSale');
