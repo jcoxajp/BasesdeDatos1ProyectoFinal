@@ -1,3 +1,10 @@
+--NOMBRES                                    CARNET
+--Alfredo Joselito Vicente Garcia          1490-22-13637
+--Kevin Fernando Ambrocio Alvarez          1490-22-11527
+--Kevin Eduardo Coxaj Ixcayau              1490-22-18758
+--Beatriz Vicente Jiménez                  1490-16-2739
+--José Manuel Coxaj Pelicó                 1490-22-11545
+
 --QUERY PARA MOSTRAR INFORMACIÓN DE LOS CLIENTES
 SELECT C.CLIENTE_ID,
        TC.NOMBRE,
